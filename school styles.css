@@ -1,0 +1,71 @@
+body
+{
+	margin:0;
+	padding:0;
+}
+
+.logo{
+width:40px;
+height:30px;
+vertical-align:middle;
+}
+  #header{
+	font-size:20px;
+	color:white;
+	background-color:#024660;
+	padding:15px;
+	font-weight:bold;
+	font-family:verdana;
+	}
+	
+	 button{
+		 
+     border-radius:20px;
+	border:2px solid white;
+	background-color:#024660;
+	color:white;
+	padding:8px 10px;
+	cursor:pointer;
+	transition:all 0.3s ease;
+	margin:3px;
+	font-family:verdana;
+	}
+	
+    button:hover{
+	background-color:white;
+	color:#024660;
+    }
+	
+	.header2 {
+	font-size:20px;
+	color:white;
+	background-color:#F7325F;
+	padding:13px;
+    text-align:center;
+	font-family:verdana;
+	
+	}
+	
+	*{
+		margin:0;
+		padding:0;
+	}
+	a{  /* link */
+		color:white;  /*links ki color change*/
+		text-decoration:none;		/* remove underline */
+		margin-right:60px;  /*word space */
+	}
+	a:hover{
+		background-color:white;
+		color:#F7325F;
+	}
+	img{
+		width:100%;
+		height:75%;
+	}
+	marquee img{
+		height:50px;
+		width:50px;
+	}
+	
+	
